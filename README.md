@@ -1,0 +1,4 @@
+# V-PCC
+Executable files for the Hierarchical Clustering based Tunable Coding Unit Division for Video-based Point Cloud Coding method, which is provided by Yue Li (liyue AT usc Dot edu Dot cn).
+
+TAppEncoder_SI0, TAppEncoder_SI1, TAppEncoder_SI2, TAppEncoder_SI3, and TAppEncoder_SI4 respectively correspond to executable files in different similarity intervals in Table 4. These executable files are used to encode the geometry and attribute videos of V-PCC in the AI coding configuration. TAppEncoder_Table_11, TAppEncoder_Table_12, and TAppEncoder_Table_13 are executable files corresponding to Table 11, Table 12 and Table 13, respectively. These executable files are used to encode the geometry and attribute videos of V-PCC in the RA coding configuration. Note that, other executable files used for V-PCC configuration have not changed, such as PccAppEncoder, PccAppMetrics, etc.
